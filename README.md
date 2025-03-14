@@ -22,6 +22,10 @@ Hey, <br>I am an undergraduate student pursuing Computer Engineering.<br>I am cu
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kushalagrawal176&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<br />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalagrawal176" alt="kushalagrawal176" /></a> </p>
+
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalagrawal176&label=Profile%20views&color=0e75b6&style=flat" alt="kushalagrawal176" /> </p>
 
