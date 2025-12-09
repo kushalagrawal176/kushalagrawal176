@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kushalagrawal176&label=Profile%20views&color=0e75b6&style=flat" alt="kushalagrawal176" /> </p>
 
 # 💫 About Me:
 Hey, <br>I am an undergraduate student pursuing Computer Engineering.<br>I am currently learning Web Development using MERN stack.<br>I have interest in Data Science, Machine Learning and Data Structures and Algorithms.
@@ -27,6 +28,6 @@ Hey, <br>I am an undergraduate student pursuing Computer Engineering.<br>I am cu
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalagrawal176" alt="kushalagrawal176" /></a> </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalagrawal176&label=Profile%20views&color=0e75b6&style=flat" alt="kushalagrawal176" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalagrawal176&label=Profile%20views&color=0e75b6&style=flat" alt="kushalagrawal176" /> </p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
