@@ -25,7 +25,12 @@ Hey, <br>I am an undergraduate student pursuing Computer Engineering.<br>I am cu
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalagrawal176" alt="kushalagrawal176" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushalagrawal176" alt="kushalagrawal176" /></a> </p> -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kushalagrawal176&theme=onedark&no-frame=true&no-bg=true&row=1&margin-w=15" alt="kushalagrawal176's Trophies" />
+</p>
+
 
 ---
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushalagrawal176&label=Profile%20views&color=0e75b6&style=flat" alt="kushalagrawal176" /> </p> -->
